@@ -1,0 +1,9 @@
+title: Blockchain Devs Meetup
+description: We are a group of enthusiasts who hack/build on Blockchain/Ethereum technologies..
+
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+
+theme: jekyll-theme-primer
